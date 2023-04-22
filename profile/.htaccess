@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule ^publicapi?$ api/log.api.php [NC,L]
